@@ -1,5 +1,6 @@
 # Dual Theme UI
 
-https://user-images.githubusercontent.com/79074310/135722330-8f9473d3-2cbd-4d50-9b73-59255eedcf92.mov
+### Preview
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/79074310/145691228-ec905775-775b-4674-8b3b-f5b50d5067b9.png">
 
